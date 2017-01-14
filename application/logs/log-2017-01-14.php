@@ -459,3 +459,29 @@ DEBUG - 2017-01-14 15:20:41 --> File loaded: C:\xampp\htdocs\ess\application\mod
 DEBUG - 2017-01-14 15:20:41 --> File loaded: C:\xampp\htdocs\ess\application\views\template/loginTemplate_v.php
 INFO - 2017-01-14 15:20:41 --> Final output sent to browser
 DEBUG - 2017-01-14 15:20:41 --> Total execution time: 0.2973
+INFO - 2017-01-14 17:44:03 --> Config Class Initialized
+INFO - 2017-01-14 17:44:03 --> Hooks Class Initialized
+DEBUG - 2017-01-14 17:44:03 --> UTF-8 Support Enabled
+INFO - 2017-01-14 17:44:03 --> Utf8 Class Initialized
+INFO - 2017-01-14 17:44:03 --> URI Class Initialized
+DEBUG - 2017-01-14 17:44:03 --> No URI present. Default controller set.
+INFO - 2017-01-14 17:44:03 --> Router Class Initialized
+INFO - 2017-01-14 17:44:03 --> Output Class Initialized
+INFO - 2017-01-14 17:44:03 --> Security Class Initialized
+DEBUG - 2017-01-14 17:44:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-14 17:44:04 --> Input Class Initialized
+INFO - 2017-01-14 17:44:04 --> Language Class Initialized
+INFO - 2017-01-14 17:44:04 --> Language Class Initialized
+INFO - 2017-01-14 17:44:04 --> Config Class Initialized
+INFO - 2017-01-14 17:44:04 --> Loader Class Initialized
+INFO - 2017-01-14 17:44:04 --> Helper loaded: url_helper
+INFO - 2017-01-14 17:44:04 --> Helper loaded: file_helper
+INFO - 2017-01-14 17:44:04 --> Database Driver Class Initialized
+INFO - 2017-01-14 17:44:04 --> Email Class Initialized
+INFO - 2017-01-14 17:44:04 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-14 17:44:04 --> Controller Class Initialized
+DEBUG - 2017-01-14 17:44:04 --> Login MX_Controller Initialized
+DEBUG - 2017-01-14 17:44:04 --> File loaded: C:\xampp\htdocs\ess\application\modules/Login/views/login_v.php
+DEBUG - 2017-01-14 17:44:04 --> File loaded: C:\xampp\htdocs\ess\application\views\template/loginTemplate_v.php
+INFO - 2017-01-14 17:44:04 --> Final output sent to browser
+DEBUG - 2017-01-14 17:44:04 --> Total execution time: 0.8418

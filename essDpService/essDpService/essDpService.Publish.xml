@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\inetpub\wwwroot\essDp2" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="essDpService" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/essDpService.pdb" publishTime="01/14/2017 12:09:17" />
+    <file relUrl="bin/essDpService.dll" publishTime="01/14/2017 12:09:18" />
+    <file relUrl="Service.svc" publishTime="06/24/2016 16:32:09" />
+    <file relUrl="Web.config" publishTime="11/14/2016 16:42:10" />
+  </publishProfile>
+</publishData>

@@ -1,0 +1,5 @@
+C:\Users\Bakasa\Documents\Visual Studio 2015\Projects\essDpService\essDpService\bin\essDpService.dll.config
+C:\Users\Bakasa\Documents\Visual Studio 2015\Projects\essDpService\essDpService\bin\essDpService.dll
+C:\Users\Bakasa\Documents\Visual Studio 2015\Projects\essDpService\essDpService\bin\essDpService.pdb
+C:\Users\Bakasa\Documents\Visual Studio 2015\Projects\essDpService\essDpService\obj\Release\essDpService.dll
+C:\Users\Bakasa\Documents\Visual Studio 2015\Projects\essDpService\essDpService\obj\Release\essDpService.pdb
