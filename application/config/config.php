@@ -17,7 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | environments.
 |
 */
-$config['base_url'] = 'http://'.$_SERVER['SERVER_NAME'].':8080/ess';
+$config['base_url'] = 'http://'.$_SERVER['SERVER_NAME'].'/ess/';
 
 /*
 |--------------------------------------------------------------------------
@@ -502,5 +502,6 @@ $config['proxy_ips'] = '';
 	MY CONSTANTS
 */
 // define('navInterfaceURL',$config['base_url'].'assets/service/navInterface.php');
-define('navInterfaceURL','127.0.0.1:8080/ess/assets/service/sqlServerInterface.php');//development on .31
+define('navInterfaceURL','127.0.0.1/ess/assets/service/sqlServerInterface.php');//development local on Bakasa
+//define('navInterfaceURL','127.0.0.1:8080/ess/assets/service/sqlServerInterface.php');//development on .31
 //define('navInterfaceURL','127.0.0.1/essDp2/assets/service/sqlServerInterface.php');//live at KIPPRA

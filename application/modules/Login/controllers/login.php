@@ -37,6 +37,7 @@ class Login extends MX_Controller {
 			// Close request to clear up some resources
 			curl_close($curl);
 		}
+		// echo "<pre>";print_r($result);die();
 		$result = json_decode($result);
 		$i=0;
 		foreach ($result as $key => $value) {
